@@ -1,3 +1,3 @@
 ### THIS IS A READ ME FILE. 
 THIS IS GENERALLY USED FOR PROVIDING A SMALL DESCRIPTION OF YOUR WORK AND HOW TO USE THAT ONE.
-*This is the line added in **Branch1** *.
+This is the line added in **Branch1**.
